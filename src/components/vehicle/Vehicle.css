@@ -1,0 +1,40 @@
+.opt{
+    background-color: red;
+    box-shadow: inset 0px 0px;
+}
+
+.ocean{
+    background-color:blue;
+    color: blue;
+}
+
+.space{
+    padding: 20px 0 0 0;
+}
+
+.poc{
+    font-Family: Times New Roman;
+
+}
+
+.pocd{
+    padding: 20px 0 0 0;
+}
+.htcc{
+    font-family: serif;
+}
+.rede{
+    color: red
+}
+.yellowe{
+    color: yellow;
+}
+.blacke{
+    color: black;
+}
+.whitee{
+    color: grey;
+}
+.bluee{
+    color: blue;
+}

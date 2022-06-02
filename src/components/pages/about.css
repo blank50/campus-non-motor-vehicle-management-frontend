@@ -1,0 +1,65 @@
+/* 
+.background {
+  background-image: url('./components/pages/wenzhou.jpg')
+} */
+
+.img1c{
+  width: flex;
+  height: flex;
+}
+.img2c{
+  width: flex;
+  height: flex;
+  padding: 30px  0px 40px 0px;
+}
+.img3c{
+  width: flex;
+  height: flex;
+  padding: 30px  0px 40px 0px;
+}
+.img4c{
+  width: flex;
+  height: flex;
+  opacity: 0.8;
+  padding: 30px  0px 10px 0px;
+}
+.img5c{
+  width: flex;
+  height: flex;
+  opacity: 0.8;
+  padding: 10px  0px 40px 0px;
+}
+.img6c{
+  width: flex;
+  height: flex;
+  opacity: 0.8;
+  padding: 10px  0px 40px 0px;
+}
+.img7c{
+  width: flex;
+  height: flex;
+  opacity: 0.8;
+  padding: 30px  0px 40px 0px;
+}
+.img8c{
+  width: flex;
+  height: flex;
+  opacity: 0.9;
+  padding: 30px  0px 40px 0px;
+
+}.img9c{
+  width: flex;
+  height: flex;
+  opacity: 0.8;
+  padding: 10px  0px 40px 0px;
+}.img10c{
+  width: flex;
+  height: flex;
+  opacity: 0.8;
+  padding: 0px  0px 40px 0px;
+}
+
+.wenzhouUniversity{
+  font-family: 'Courier New', Courier, monospace
+
+}

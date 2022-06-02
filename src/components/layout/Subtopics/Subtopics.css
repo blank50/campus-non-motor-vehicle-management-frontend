@@ -1,0 +1,14 @@
+.gridlayout2{
+    display: grid;
+    grid-template-columns: 10rem auto;
+    grid-gap: 3rem;
+}
+
+.gridlayout2.fontsizem{
+    font-family: sans-serif;
+}
+.gfont{
+    align-items: left;
+    position: relative;
+    font-family: Arial;
+}
