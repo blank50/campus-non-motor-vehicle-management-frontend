@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3f6fc78.chunk.css",
+    "main.js": "/static/js/main.15623024.chunk.js",
+    "main.js.map": "/static/js/main.15623024.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.23c33b97.js",
+    "runtime-main.js.map": "/static/js/runtime-main.23c33b97.js.map",
+    "static/js/2.efe2f13e.chunk.js": "/static/js/2.efe2f13e.chunk.js",
+    "static/js/2.efe2f13e.chunk.js.map": "/static/js/2.efe2f13e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8045917c83db38561862dbadda7b70a1.js": "/precache-manifest.8045917c83db38561862dbadda7b70a1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b3f6fc78.chunk.css.map": "/static/css/main.b3f6fc78.chunk.css.map",
+    "static/media/640-2.jpg": "/static/media/640-2.7f8e894f.jpg",
+    "static/media/6403.jpg": "/static/media/6403.fc414eaf.jpg",
+    "static/media/bosh.jpg": "/static/media/bosh.08b8f2f7.jpg",
+    "static/media/comfort.jpg": "/static/media/comfort.73c1dd7b.jpg",
+    "static/media/design.jpg": "/static/media/design.fc18a5f4.jpg",
+    "static/media/handling.jpg": "/static/media/handling.6f0a1c3d.jpg",
+    "static/media/headlight.jpg": "/static/media/headlight.35d07528.jpg",
+    "static/media/safety.jpg": "/static/media/safety.5941b917.jpg",
+    "static/media/spec.jpg": "/static/media/spec.01586e4f.jpg",
+    "static/media/wenzhou.jpg": "/static/media/wenzhou.c8cd172c.jpg"
+  }
+}
